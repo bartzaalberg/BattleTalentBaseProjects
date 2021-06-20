@@ -4,7 +4,7 @@ Hi and welcome. Above you will find a collection of some clean example projects 
 
 ## Important changes
 
-Here are some tips to help you make beautifull mods.
+Here are some important things that you need to watch while creating mods.
 
 ### Prefixes
 
